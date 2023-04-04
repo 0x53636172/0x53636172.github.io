@@ -2,6 +2,7 @@ relative_links:
     enabled: true
     collections: true
 include:
+    - index.md
     - Exilliteratur.md
     - Naturalismus.md
     - Neue Sachlichkeit.md
