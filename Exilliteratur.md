@@ -1,7 +1,5 @@
 # Exilliteratur
 
----
-
 ## Zusammenfassung
 
 Der Begriff Exilliteratur meint hauptsächlich die Epoche von 1933 bis 1945. In dieser Zeit mussten viele Schriftsteller und Schriftstellerinnen das Land verlassen, da sie den Nationalsozialisten kritisch gegenüber standen und diese sie verfolgen ließen. 

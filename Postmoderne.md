@@ -1,7 +1,5 @@
 # Postmoderne
 
----
-
 ## Zusammenfassung
 
 Die Postmoderne ist eine literarische Epoche, die sich ungefähr zwischen 1990 und 2010 einordnen lässt. Sie ist gekennzeichnet durch eine Vielfalt an Themen, Formen und Stilen, die oft auf ältere Werke oder historische Ereignisse Bezug nehmen (Intertextualität). Die postmoderne Literatur reflektiert die Komplexität und Unsicherheit der Welt nach dem Ende des Kalten Krieges und der Wiedervereinigung Deutschlands. Die Sprache ist experimentell, ironisch und spielerisch. Die Protagonisten sind meist Außenseiter oder Individuen, die nach Sinn und Identität suchen. Die Erzählweise ist nicht chronologisch, sondern springt zwischen verschiedenen Zeiten und Perspektiven hin und her.
@@ -60,3 +58,7 @@ Die postmoderne Lyrik ist eher selten und oft hermetisch, das heißt schwer vers
 > 
 > Es kommen härtere Tage.
 
+
+## Bezug zur Liebe
+
+Die Liebeslyrik der Postmoderne ist geprägt von einer Vielfalt an Formen und Stilen. Die Dichter der Postmoderne strebten nach einer Erneuerung der Lyrik und lehnten traditionelle Formen wie Reim und Metrum ab. Die Liebe wurde als ein zentrales Thema in der Lyrik der Postmoderne behandelt. Die Dichter der Postmoderne verwendeten eine einfache Sprache und experimentierten mit verschiedenen Stilmitteln.

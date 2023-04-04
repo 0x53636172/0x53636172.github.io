@@ -1,7 +1,5 @@
 # Neue Sachlichkeit
 
----
-
 ## Zusammenfassung
 
 Die Epoche der Neuen Sachlichkeit war eine literarische Strömung in der Weimarer Republik, die sich durch eine nüchterne und sachliche Darstellung der gesellschaftlichen und politischen Realität auszeichnete. Die Autoren und Autorinnen der Neuen Sachlichkeit wollten Kunst für alle zugänglich machen und kritisierten die Missstände der Zeit, wie die Folgen des Ersten Weltkriegs, die Inflation, die Weltwirtschaftskrise und den aufkommenden Faschismus. Die Sprache der Neuen Sachlichkeit war einfach, klar und ohne bildhafte Stilmittel. Die Werke der Neuen Sachlichkeit zeigten oft das Leben in den Großstädten, die Rolle der Frau, die Technik und die Erotik. Bekannte Vertreter und Vertreterinnen der Neuen Sachlichkeit waren Erich Kästner, Alfred Döblin, Irmgard Keun und Bertolt Brecht.
@@ -122,3 +120,7 @@ Für die Lyrik der Neuen Sachlichkeit wurde der Begriff der ***Gebrauchslyrik***
 > Doch jene Wolke blühte nur Minuten  
 > Und als ich aufsah, schwand sie schon im Wind.
 
+
+## Bezug zur Liebe
+
+Die Liebeslyrik der Neuen Sachlichkeit ist geprägt von einer nüchternen und sachlichen Betrachtung der Liebe. Die Dichter der Neuen Sachlichkeit lehnten die romantische Verklärung der Liebe ab und beschrieben sie stattdessen als eine nüchterne Analyse von Gefühlen. Die Liebe wurde als ein Thema unter vielen behandelt und nicht als das zentrale Thema der Lyrik. Die Dichter der Neuen Sachlichkeit verwendeten eine klare und einfache Sprache und verzichteten auf übertriebene Metaphern und Symbolik.
