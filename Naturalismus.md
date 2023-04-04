@@ -1,5 +1,7 @@
 # Naturalismus
 
+---
+
 ## Zusammenfassung
 
 Der Naturalismus ist eine Literaturepoche, die von 1880 bis 1900 erstreckt und sich aus dem [Realismus](Realismus.md) entwickelte. Die Autoren wollten die Realität so genau wie möglich darstellen und zeigten oft das **Hässliche** und die **sozialen Missstände**, die vor allem die Arbeiterklasse betrafen. Die Zeit des Naturalismus war von gesellschaftlichen Umbrüchen und **wissenschaftlichem** Fortschritt geprägt, aber auch von sozialer Ungleichheit, Armut und Krankheit. Die Naturwissenschaften beeinflussten das Menschenbild der Epoche, indem sie den Menschen als **determiniertes** Wesen sahen, das von seiner sozialen Herkunft beschränkt ist. Der Schriftsteller Arno Holz (1863-1929) stellte die Formel *Kunst = Natur - X* auf, bei der im Naturalismus *X* möglichst klein sein soll.

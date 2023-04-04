@@ -1,5 +1,7 @@
 # Trümmerliteratur
 
+---
+
 ## Zusammenfassung
 
 Die Trümmerliteratur ist eine deutsche Literaturepoche, die zwischen 1945 und 1950 entstand. Sie wurde von jungen Autoren geprägt, die ihre Erlebnisse im Zweiten Weltkrieg und in der Nachkriegszeit literarisch verarbeiteten. Die Trümmerliteratur zeichnet sich durch einen realistischen, nüchternen und oft pessimistischen Stil aus, der die Zerstörung, das Leid und die Orientierungslosigkeit der Menschen thematisiert. Die Trümmerliteratur gilt als eine Strömung der Nachkriegsliteratur und ist eng mit der Gruppe 47 verbunden. Sie wurde von amerikanischen Short Stories und französischen Existentialisten beeinflusst.
