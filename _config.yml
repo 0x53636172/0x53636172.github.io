@@ -1,8 +1,11 @@
 relative_links:
     enabled: true
     collections: true
-site:
-    title: null
+
+name: Literatur Epochen von Realismus bis Postmoderne
+
+title: null
+
 include:
     - index.md
     - Exilliteratur.md
