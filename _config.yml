@@ -1,0 +1,8 @@
+relative_links:
+    enabled: true
+    collections: true
+include:
+    - Exilliteratur.md
+    - Naturalismus.md
+    - Neue Sachlichkeit.md
+    - Trümmerliteratur.md
