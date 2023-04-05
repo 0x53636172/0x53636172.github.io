@@ -24,32 +24,32 @@ Auch die Lyrik wurde größtenteils für politische Stellungnahmen verwendet, um
 
 ##### Die schlesischen Weber (1844) von Heinrich Heine
 
-> Im düstern Auge keine Thräne,
-> Sie sitzen am Webstuhl und fletschen die Zähne:
-> Deutschland, wir weben Dein Leichentuch,
-> Wir weben hinein den dreifachen Fluch –
+> Im düstern Auge keine Thräne,\
+> Sie sitzen am Webstuhl und fletschen die Zähne:\
+> Deutschland, wir weben Dein Leichentuch,\
+> Wir weben hinein den dreifachen Fluch –\
 >      Wir weben, wir weben!
 >
-> Ein Fluch dem Gotte, zu dem wir gebeten
-> In Winterskälte und Hungersnöthen;
-> Wir haben vergebens gehofft und geharrt,
-> Er hat uns geäfft und gefoppt und genarrt –
+> Ein Fluch dem Gotte, zu dem wir gebeten\
+> In Winterskälte und Hungersnöthen;\
+> Wir haben vergebens gehofft und geharrt,\
+> Er hat uns geäfft und gefoppt und genarrt –\
 >      Wir weben, wir weben!
 >
-> Ein Fluch dem König, dem König der Reichen,
-> Den unser Elend nicht konnte erweichen,
-> Der den letzten Groschen von uns erpreßt,
-> Und uns wie Hunde erschießen läßt –
+> Ein Fluch dem König, dem König der Reichen,\
+> Den unser Elend nicht konnte erweichen,\
+> Der den letzten Groschen von uns erpreßt,\
+> Und uns wie Hunde erschießen läßt –\
 >      Wir weben, wir weben!
 >
-> Ein Fluch dem falschen Vaterlande,
-> Wo nur gedeihen Schmach und Schande,
-> Wo jede Blume früh geknickt,
-> Wo Fäulniß und Moder den Wurm erquickt –
+> Ein Fluch dem falschen Vaterlande,\
+> Wo nur gedeihen Schmach und Schande,\
+> Wo jede Blume früh geknickt,\
+> Wo Fäulniß und Moder den Wurm erquickt –\
 >      Wir weben, wir weben!
 >
-> Das Schiffchen fliegt, der Webstuhl kracht,
-> Wir weben emsig Tag und Nacht –
-> Altdeutschland, wir weben Dein Leichentuch,
-> Wir weben hinein den dreifachen Fluch,
+> Das Schiffchen fliegt, der Webstuhl kracht,\
+> Wir weben emsig Tag und Nacht –\
+> Altdeutschland, wir weben Dein Leichentuch,\
+> Wir weben hinein den dreifachen Fluch,\
 >      Wir weben, wir weben!
