@@ -31,19 +31,19 @@ Die Lyrik des Expressionismus zeichnet sich durch komplette Abwesenheit von Form
 ##### Grodek (1914) von Georg Trakl
 
 > Am Abend tönen die herbstlichen Wälder
-Von tödlichen Waffen, die goldnen Ebenen
-Und blauen Seen, darüber die Sonne
-Düstrer hinrollt; umfängt die Nacht
-Sterbende Krieger, die wilde Klage
-Ihrer zerbrochenen Münder.
-Doch stille sammelt im Weidengrunde
-Rotes Gewölk, darin ein zürnender Gott wohnt
-Das vergossne Blut sich, mondne Kühle;
-Alle Straßen münden in schwarze Verwesung.
-Unter goldnem Gezweig der Nacht und Sternen
-Es schwankt der Schwester Schatten durch den schweigenden Hain,
-Zu grüßen die Geister der Helden, die blutenden Häupter;
-Und leise tönen im Rohr die dunkeln Flöten des Herbstes.
-O stolzere Trauer! ihr ehernen Altäre
-Die heiße Flamme des Geistes nährt heute ein gewaltiger Schmerz,
-Die ungebornen Enkel.
+> Von tödlichen Waffen, die goldnen Ebenen
+> Und blauen Seen, darüber die Sonne
+> Düstrer hinrollt; umfängt die Nacht
+> Sterbende Krieger, die wilde Klage
+> Ihrer zerbrochenen Münder.
+> Doch stille sammelt im Weidengrunde
+> Rotes Gewölk, darin ein zürnender Gott wohnt
+> Das vergossne Blut sich, mondne Kühle;
+> Alle Straßen münden in schwarze Verwesung.
+> Unter goldnem Gezweig der Nacht und Sternen
+> Es schwankt der Schwester Schatten durch den schweigenden Hain,
+> Zu grüßen die Geister der Helden, die blutenden Häupter;
+> Und leise tönen im Rohr die dunkeln Flöten des Herbstes.
+> O stolzere Trauer! ihr ehernen Altäre
+> Die heiße Flamme des Geistes nährt heute ein gewaltiger Schmerz,
+> Die ungebornen Enkel.
