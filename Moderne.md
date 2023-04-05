@@ -43,27 +43,26 @@ Die Lyrik der Moderne ist geprägt von einer Abkehr vom traditionellen Versmaß 
 > Vermenschter Stern, mit allen deinen Fluten  
 > Verlangst und bangst du blaß hinan zum Mond.  
 > Wir können bloß die Mondsehnsucht vermuten  
-> Und wissen wohl, kein Mondgespenst hat uns  
-> aaaaaverschont.
-> 
+> Und wissen wohl, kein Mondgespenst hat uns verschont.
+>
 > Begebnisse, die nie ein Wunsch ersann,  
 > Entwallen deinen Tiefen, die auf uns beruhten,  
 > Und schmeicheln sich zum leichten Mond hinan.  
 > Geschlechter fangen an, sich leiblich einzubluten.  
 > Und streben schon zum Stern, der mit dem Tod begann.
-> 
+>
 > Wir träumen uns hinweg nach einem Heime,  
 > Wo unser Aufgang starr und frostig sei.  
 > Im angeträumten Schlummerebbungsschleime  
 > Erscheint des Sterbens Silberstickerei;  
 > Der Mond verstreut die bleichen Todeskeime:  
 > Sein Mitleid keimt bereits in jedem Ei.
-> 
+>
 > Vermenschter Stern, zu deinem freundlichen Genossen  
 > Will unvermutet auch das frohste Sonnenkind.  
 > Was überraschend rasch am Tag ersprossen,  
 > Bleibt innerlich doch mild und mondhaft lind.
-> 
+>
 > Dem Monde ist ein Wort vor seinem Tod entflossen,  
 > Das alle hörten, dessen niemand sich besinnt.  
 > Empor zum Mond! Nun ist sein Mund verschlossen.  
