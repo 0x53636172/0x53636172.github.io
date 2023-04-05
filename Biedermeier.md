@@ -23,11 +23,11 @@ Die Lyrik zeichnet sich durch ein einfaches Reimschema, sowie Metrum aus. Dazu f
 ##### Er ist's (1829) von Eduard Mörike
 
 > Frühling lässt sein blaues Band
-Wieder flattern durch die Lüfte;
-Süße, wohl bekannte Düfte
-Streifen ahnungsvoll das Land.
-Veilchen träumen schon,
-Wollen balde kommen.
-Horch, von fern ein leiser Harfenton!
-Frühling, ja du bist's!
-Dich hab' ich vernommen!
+> Wieder flattern durch die Lüfte;
+> Süße, wohl bekannte Düfte
+> Streifen ahnungsvoll das Land.
+> Veilchen träumen schon,
+> Wollen balde kommen.
+> Horch, von fern ein leiser Harfenton!
+> Frühling, ja du bist's!
+> Dich hab' ich vernommen!

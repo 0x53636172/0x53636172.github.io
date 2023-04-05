@@ -29,16 +29,16 @@ Anders als die Lyrik der Biedermeier Epoche ist der Realismus eher sachlich geha
 ##### Zwei Segel (1882) von Conrad Ferdinand Meyer
 
 > Zwei Segel erhellend
-Die tiefblaue Bucht!
-Zwei Segel sich schwellend
-Zur ruhiger Flucht!
+> Die tiefblaue Bucht!
+> Zwei Segel sich schwellend
+> Zur ruhiger Flucht!
 >
 > Wie eins in den Winden
-Sich wölbt und bewegt,
-Wird auch das Empfinden
-Des anderen erregt.
+> Sich wölbt und bewegt,
+> Wird auch das Empfinden
+> Des anderen erregt.
 >
 > Begehrt eins zu hasten,
-Das andre geht schnell,
-Verlangt eins zu rasten,
-Ruht auch sein Gesell.
+> Das andre geht schnell,
+> Verlangt eins zu rasten,
+> Ruht auch sein Gesell.
